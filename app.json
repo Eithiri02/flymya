@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0aa92c46-9169-4db0-bc43-122b1bf51768"
+      }
+    },
+    "owner": "sithuapp"
   }
 }
